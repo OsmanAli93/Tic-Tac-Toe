@@ -12,4 +12,7 @@ Project is built with :
 
 # Setup
 
-To run this project, download source code and click on index.html to run locally
+To run this project, download source code and click on index.html to run locally .
+hosted in https://jovial-ride-5c5732.netlify.app
+
+
